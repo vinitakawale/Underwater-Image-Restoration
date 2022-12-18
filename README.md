@@ -24,7 +24,9 @@ output will be generated in data/output
 
 U-shape Transformer for Underwater Image Enhancement 
 ----------------------------------------------------
-![25 (1)](https://user-images.githubusercontent.com/45771719/208321849-a11afc98-0840-4e13-9e07-a425a3f34542.jpg)
+![467 (1)](https://user-images.githubusercontent.com/45771719/208321888-8aaab355-665e-41c3-96ad-b63b7c954eab.jpg)
+
+
 
 
 pretrained models access is available through shared drive: 
